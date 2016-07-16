@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "responseDic.h"
 @interface ViewController : UIViewController
 @property (nonatomic,strong) UITextField *textField;
 //- (void)doCAMPAction;

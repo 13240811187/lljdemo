@@ -1,20 +1,28 @@
 {
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2ABB227BDCC66E54174EF472EFC486618F5786DB",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
     "705cd24f-d37f-494e-81dc-bc6c3dd8690a++7857" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2ABB227BDCC66E54174EF472EFC486618F5786DB" : 0,
     "705cd24f-d37f-494e-81dc-bc6c3dd8690a++7857" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "10A22BBA-3CDC-4B8E-B70B-215743E7F868",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2ABB227BDCC66E54174EF472EFC486618F5786DB" : "lljdemo\/",
     "705cd24f-d37f-494e-81dc-bc6c3dd8690a++7857" : "IOS\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "faceRecognizeTest",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "faceRecognizeTest.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/13240811187\/lljdemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2ABB227BDCC66E54174EF472EFC486618F5786DB"
+    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.10.21\/svn\/tanghuan",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",

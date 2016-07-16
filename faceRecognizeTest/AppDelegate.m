@@ -10,7 +10,7 @@
 #import "ViewController.h"
 #import "RESideMenu.h"
 #import "LeftViewController.h"
-#define uuu @"123"
+
 @interface AppDelegate () <RESideMenuDelegate>
 
 @end
